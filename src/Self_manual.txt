@@ -1,0 +1,7 @@
+
+./CalcPhys-ini.x 125.5 3000 3000 3000 1.0 0.0 0.0  4500000.0 1.0 2 check_loop.txt
+./CalcPhys-ini.x 125.5 3000 3000 3000 1.0 0.0 0.0  4500000.0 1.0 2 check_tree.txt
+
+
+
+./CalcPhys mh mH mA mHp sin(beta-alpha) lambda_6 lambda_7 m_12^2 tan_beta yukawas_type output_filename

@@ -1,0 +1,110 @@
+#: table_doi: 10.17182/hepdata.90694.v1/t1
+#: name: Table
+#: description: Expected and observed 95% CL upper limits on (sigma(pp->h)/sigma(pp->hSM)) * B(h -> aa -> tautautautau) as a function of m(a) obtained from the 13 TeV data, where h(SM) is the Higgs boson of the standard model, h is the observed particle with mass of 125 GeV, and (a) denotes a light Higgs-like state.
+#: data_file: Table.yaml
+#: keyword reactions: P P -->  HIGGS < TAU+ TAU- TAU+ TAU- >  X
+#: keyword observables: SIG
+#: keyword cmenergies: 13000.0
+#: keyword phrases: Inclusive | Higgs | Tau | Muon | Integrated Cross Section | Cross Section | Proton-Proton Scattering | BSM | 2HDM+S
+#: ,Expected -2 sigma
+#: RE,P P -->  HIGGS < TAU+ TAU- TAU+ TAU- >  X
+#: SQRT(S) [GeV],13000.0
+m(a) [GeV],95% CL upper limit on (sigma(pp->h)/sigma(pp->hSM)) * B(h -> aa -> tautau tautau)
+4,0.086
+5,0.066
+6,0.047
+7,0.025
+8,0.017
+9,0.013
+10,0.013
+11,0.016
+12,0.02
+13,0.027
+14,0.041
+15,0.084
+
+#: ,Expected -1 sigma
+#: RE,P P -->  HIGGS < TAU+ TAU- TAU+ TAU- >  X
+#: SQRT(S) [GeV],13000.0
+m(a) [GeV],95% CL upper limit on (sigma(pp->h)/sigma(pp->hSM)) * B(h -> aa -> tautau tautau)
+4,0.116
+5,0.089
+6,0.063
+7,0.035
+8,0.024
+9,0.017
+10,0.019
+11,0.022
+12,0.028
+13,0.038
+14,0.058
+15,0.121
+
+#: ,Median
+#: RE,P P -->  HIGGS < TAU+ TAU- TAU+ TAU- >  X
+#: SQRT(S) [GeV],13000.0
+m(a) [GeV],95% CL upper limit on (sigma(pp->h)/sigma(pp->hSM)) * B(h -> aa -> tautau tautau)
+4,0.164
+5,0.126
+6,0.091
+7,0.051
+8,0.037
+9,0.027
+10,0.029
+11,0.034
+12,0.042
+13,0.057
+14,0.087
+15,0.191
+
+#: ,Expected +1 sigma
+#: RE,P P -->  HIGGS < TAU+ TAU- TAU+ TAU- >  X
+#: SQRT(S) [GeV],13000.0
+m(a) [GeV],95% CL upper limit on (sigma(pp->h)/sigma(pp->hSM)) * B(h -> aa -> tautau tautau)
+4,0.236
+5,0.185
+6,0.133
+7,0.077
+8,0.057
+9,0.042
+10,0.045
+11,0.053
+12,0.066
+13,0.089
+14,0.138
+15,0.32
+
+#: ,Expected +2 sigma
+#: RE,P P -->  HIGGS < TAU+ TAU- TAU+ TAU- >  X
+#: SQRT(S) [GeV],13000.0
+m(a) [GeV],95% CL upper limit on (sigma(pp->h)/sigma(pp->hSM)) * B(h -> aa -> tautau tautau)
+4,0.333
+5,0.264
+6,0.189
+7,0.113
+8,0.086
+9,0.064
+10,0.069
+11,0.08
+12,0.099
+13,0.134
+14,0.211
+15,0.539
+
+#: ,Observed
+#: RE,P P -->  HIGGS < TAU+ TAU- TAU+ TAU- >  X
+#: SQRT(S) [GeV],13000.0
+m(a) [GeV],95% CL upper limit on (sigma(pp->h)/sigma(pp->hSM)) * B(h -> aa -> tautau tautau)
+4,0.232
+5,0.165
+6,0.125
+7,0.065
+8,0.038
+9,0.022
+10,0.025
+11,0.028
+12,0.036
+13,0.049
+14,0.076
+15,0.161
+

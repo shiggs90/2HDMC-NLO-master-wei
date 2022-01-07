@@ -1,0 +1,31 @@
+#: table_doi: 10.17182/hepdata.83662.v2/t8
+#: name: Table 8
+#: description: Expected and observed limits on the cross-section of the four-top-quark production through a heavy scalar Higgs boson times the branching ratio for the Higgs boson to decay into t tbar as a function of the heavy scalar Higgs mass.
+#: data_file: Limit_2HDM_Syst_simple.yaml
+#: keyword reactions: P P --> ttH
+#: keyword cmenergies: 13000.0
+#: keyword phrases: heavy scalar Higgs
+#: LUMINOSITY [fb$^{-1}$],36.1
+#: Limit,Observed
+#: SQRT(S) [GeV],13000
+Mass [TeV],Cross section upper limit at 95% CL [pb]
+0.4,0.0832549
+0.5,0.0635521
+0.6,0.0508356
+0.7,0.053125
+0.8,0.040798
+0.9,0.0417561
+1,0.0356999
+
+#: LUMINOSITY [fb$^{-1}$],36.1
+#: Limit,Expected
+#: SQRT(S) [GeV],13000
+Mass [TeV],Cross section upper limit at 95% CL [pb],1 sigma +,1 sigma -,2 sigma +,2 sigma -
+0.4,0.0369488,0.0168699,-0.0103251,0.0412765,-0.0171174
+0.5,0.0318703,0.0145158,-0.00890598,0.0352705,-0.0147647
+0.6,0.0230452,0.0108953,-0.00643986,0.0269732,-0.0106763
+0.7,0.0252039,0.0109784,-0.00704311,0.025925,-0.0116763
+0.8,0.0204837,0.00906713,-0.00572406,0.0216401,-0.00948958
+0.9,0.021061,0.00925722,-0.00588539,0.0219717,-0.00975703
+1,0.0189155,0.00839349,-0.00528585,0.0200787,-0.00876308
+

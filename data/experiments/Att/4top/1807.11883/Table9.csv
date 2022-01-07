@@ -1,0 +1,27 @@
+#: table_doi: 10.17182/hepdata.83662.v2/t9
+#: name: Table 9
+#: description: Expected and observed limits on the cross-section for prompt tt production as a function of the mass of the exotic FCNC mediator particle in a dark matter model.
+#: data_file: Limit_tt_exclusive.yaml
+#: keyword reactions: P P --> tt
+#: keyword cmenergies: 13000.0
+#: keyword phrases: dark matter exotic FCNC mediator
+#: LUMINOSITY [fb$^{-1}$],36.1
+#: Limit,Observed
+#: SQRT(S) [GeV],13000
+Mass [GeV],Cross section upper limit at 95% CL [pb]
+1000,0.0888697
+1500,0.0689953
+2000,0.0596433
+2500,0.0549378
+3000,0.0523922
+
+#: LUMINOSITY [fb$^{-1}$],36.1
+#: Limit,Expected
+#: SQRT(S) [GeV],13000
+Mass [GeV],Cross section upper limit at 95% CL [pb],1 sigma +,1 sigma -,2 sigma +,2 sigma -
+1000,0.0590561,0.0254492,-0.0165029,0.0599364,-0.0273591
+1500,0.0458633,0.0196466,-0.0128163,0.0461878,-0.0212473
+2000,0.0393134,0.0169555,-0.0109859,0.0400101,-0.0182129
+2500,0.0364717,0.0156717,-0.0101918,0.0369169,-0.0168964
+3000,0.0344413,0.0148913,-0.00962445,0.0351397,-0.0159558
+

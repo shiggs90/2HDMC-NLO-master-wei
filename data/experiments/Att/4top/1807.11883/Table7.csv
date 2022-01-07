@@ -1,0 +1,27 @@
+#: table_doi: 10.17182/hepdata.83662.v2/t7
+#: name: Table 7
+#: description: Expected and observed limits on photon KK excitation pair-production as a function of the KK excitation mass of the photon in the 2UED/RPP model assuming a branching ratio B(A(1,1)-> t tbar)) = 100%.
+#: data_file: Limit_UED_Syst_simple.yaml
+#: keyword reactions: P P --> A A
+#: keyword cmenergies: 13000.0
+#: keyword phrases: KK excitation of the photon
+#: LUMINOSITY [fb$^{-1}$],36.1
+#: Limit,Observed
+#: SQRT(S) [GeV],13000
+Mass [TeV],Cross section upper limit at 95% CL [pb]
+1,0.0108989
+1.2,0.0113685
+1.4,0.0121812
+1.6,0.0132094
+1.8,0.0146319
+
+#: LUMINOSITY [fb$^{-1}$],36.1
+#: Limit,Expected
+#: SQRT(S) [GeV],13000
+Mass [TeV],Cross section upper limit at 95% CL [pb],1 sigma +,1 sigma -,2 sigma +,2 sigma -
+1,0.00877442,0.0039805,-0.00245196,0.00964994,-0.00406496
+1.2,0.00921202,0.00414596,-0.00257425,0.0100202,-0.00426769
+1.4,0.00999518,0.00445515,-0.0027931,0.0106948,-0.00463051
+1.6,0.0108554,0.00481538,-0.00303348,0.0115556,-0.00502902
+1.8,0.0120736,0.00533711,-0.00337389,0.0128272,-0.00559336
+

@@ -1,0 +1,65 @@
+****************************************************
+*                                                  *
+*    2HDMC - Two-Higgs-Doublet Model Calculator    *
+*             http://2hdmc.hepforge.org            *
+*                  Version 1.7.0                   *
+*             Compiled on Oct 25 2021              *
+*                                                  *
+****************************************************
+ KHVV_NLO @DecayTable.cpp = 51.7295
+ KHVV_NLO @DecayTable.cpp = 103.258
+hgg(h) = 1 0.000318528
+ KHVV_NLO @DecayTable.cpp = 1.16382e+07
+ KHVV_NLO @DecayTable.cpp = 2.32791e+07
+hgg(h) = 2 2.4058e-06
+ KHVV_NLO @DecayTable.cpp = 0
+ KHVV_NLO @DecayTable.cpp = 0
+hgg(h) = 3 1.73936e-06
+_gammatot = 2.58862e+12
+ br_hidd @ Constranints.cpp 3.81326e-12
+hgg(h) = 1 0.000318528
+hgg(h) = 1 0.024058
+get_gamma_hgg(2) 2.4058e-06
+get_gamma_hgg(1) 0.024058
+hgg(h) = 1 0.00538887
+gamma_hgg_NLO[h] @DecayTable.cpp Before cal = 1 -1
+hgg_NLO(h) = 1 0.000516991
+hgg(h) = 1 0.000318528
+gamma_hgg_NLO[h] @DecayTable.cpp Before cal = 2 -1
+hgg_NLO(h) = 2 34.6168
+hgg(h) = 1 0.024058
+get_gamma_hgg_NLO(2) gamma_hgg_NLO[h] @DecayTable.cpp Before cal = 2 34.6168
+34.6168
+get_gamma_hgg(1) 0.024058
+gamma_hgg_NLO[h] @DecayTable.cpp Before cal = 3 -1
+hgg_NLO(h) = 3 0.0540671
+hgg(h) = 1 0.00538887
+_xsratio_gg[2], _xsratio_gg[0], _xsratio_gg[1]0.000322769 1 0.0001
+get_ggHXS_NLO(_xsratio_gg_NLO[2], _xsratio_gg_NLO[0], _xsratio_gg_NLO[1] 10.0331 1.62306 1438.89
+_xsratio_bb[2], _xsratio_bb[0], _xsratio_bb[1] 25320.8 4.97465 1439.67
+tth (-0,-0.687441) (0,0) (-0,-0.687441) (0,0)
+ttA (0,0) (-0.00640056,0) (-0,-0.640056) (0,0)
+_xsratio_tth[2], _xsratio_tth[0], _xsratio_tth[1]) 0.0001 1 1439.35
+_xsratio_zh[2], _xsratio_zh[0], _xsratio_zh[1] = 0 161.42 1.10829e+06
+ KHVV_NLO @Constraints.cpp = 2.32791e+07
+ KHVV_SM @Constraints.cpp = 21.002
+ brhbb = 0.0778887
+ brhtautau = 0.00745013
+ brhaa = 0
+ brhHH = 0
+ brHZZ = 3.2218e-06
+   125    400    300            0          100 ====================================================
+   FF 2.0, a package to evaluate one-loop integrals
+ written by G. J. van Oldenborgh, NIKHEF-H, Amsterdam
+ ====================================================
+ for the algorithms used see preprint NIKHEF-H 89/17,
+ 'New Algorithms for One-loop Integrals', by G.J. van
+ Oldenborgh and J.A.M. Vermaseren, published in 
+ Zeitschrift fuer Physik C46(1990)425.
+ ====================================================
+ ffxc0i: infra-red divergent threepoint function, working with a cutoff    1.0000000000000000     
+ 
+total number of errors and warnings
+===================================
+fferr: no errors
+ 

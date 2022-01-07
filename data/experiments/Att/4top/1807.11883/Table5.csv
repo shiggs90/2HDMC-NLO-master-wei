@@ -1,0 +1,33 @@
+#: table_doi: 10.17182/hepdata.83662.v2/t5
+#: name: Table 5
+#: description: Expected and observed limits on vector-like T5/3 pair production as a function of mass, assuming a branching ratio B(T5/3 -> Wt) = 100%.
+#: data_file: Limit_XX_Syst_simple.yaml
+#: keyword reactions: P P --> X X
+#: keyword cmenergies: 13000.0
+#: keyword phrases: vector-like T5/3
+#: LUMINOSITY [fb$^{-1}$],36.1
+#: Limit,Observed
+#: SQRT(S) [GeV],13000
+Mass [GeV],Cross section upper limit at 95% CL [pb]
+500,0.0959445
+700,0.0297901
+800,0.0208832
+900,0.0160971
+1000,0.0136586
+1100,0.0126284
+1200,0.0120327
+1400,0.011462
+
+#: LUMINOSITY [fb$^{-1}$],36.1
+#: Limit,Expected
+#: SQRT(S) [GeV],13000
+Mass [GeV],Cross section upper limit at 95% CL [pb],1 sigma +,1 sigma -,2 sigma +,2 sigma -
+500,0.0663566,0.0274907,-0.018543,0.0629176,-0.0307413
+700,0.0256551,0.0105256,-0.00716919,0.0240396,-0.0118854
+800,0.0188585,0.0077299,-0.00526991,0.0176552,-0.00873666
+900,0.0147382,0.00603956,-0.00411851,0.0137922,-0.00682782
+1000,0.0126483,0.00518465,-0.00353449,0.0118465,-0.00585961
+1100,0.0117438,0.00480521,-0.00328174,0.0109805,-0.0054406
+1200,0.0112925,0.00458424,-0.00315562,0.0104431,-0.0052315
+1400,0.0108307,0.00434802,-0.00302658,0.00988253,-0.00501758
+

@@ -1,0 +1,27 @@
+#: table_doi: 10.17182/hepdata.83662.v2/t14
+#: name: Table 14
+#: description: Expected and observed constraints in the (gSM, mV) plane for the combined visible same-sign top-quark pair production for gSM=1.0
+#: data_file: 2D_DMttgDM1.0.yaml
+#: keyword reactions: P P --> tt
+#: keyword cmenergies: 13000.0
+#: keyword phrases: dark matter model
+#: LUMINOSITY [fb$^{-1}$],36.1
+#: Limit,Observed
+#: SQRT(S) [GeV],13000
+Mass [GeV],SM coupling upper limit at 95% CL
+1000,0.14
+1500,0.19
+2000,0.23
+2500,0.27
+3000,0.31
+
+#: LUMINOSITY [fb$^{-1}$],36.1
+#: Limit,Expected
+#: SQRT(S) [GeV],13000
+Mass [GeV],SM coupling upper limit at 95% CL,1 sigma +,1 sigma -,2 sigma +,2 sigma -
+1000,0.126151,0.0117776,-0.00996295,0.0239403,-0.0183476
+1500,0.164699,0.0151512,-0.0132543,0.0315675,-0.0241583
+2000,0.201125,0.0188694,-0.0156681,0.0387106,-0.0289738
+2500,0.239048,0.0224226,-0.0189755,0.045881,-0.0342882
+3000,0.276547,0.0259091,-0.0217862,0.0530105,-0.0398731
+

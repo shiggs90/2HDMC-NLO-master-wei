@@ -1,0 +1,12 @@
+
+./CalcPhys-ini.x 125.5 3000 3000 3000 1.0 0.0 0.0  4500000.0 1.0 2 check_loop.txt
+./CalcPhys-ini.x 125.5 3000 3000 3000 1.0 0.0 0.0  4500000.0 1.0 2 check_tree.txt
+./main_full2.x 125.5 300 300 300 0.025 0.0 0.0  212.132 1.0 2 check_loop_main_full2_test.txt > test.txt
+./CalcPhys-ini.x 125 300 300 300 1 0.0 0.0 45000.0 1.0 2 check_loop_cba0tb1_300.txt
+./CalcPhys-ini.x 125 400 400 400 0.979795897 0.0 0.0  80000.0 1.0 2 check_loop_cba0.2tb1_2.txt
+
+./CalcPhys-ini.x 125. 400 400 400 1 0.0 0.0  1600 100.0 1 check_loop_cba0.2tb1_2.txt
+./main_full2.x 125. 400 400 400 0 0.0 0.0  40 100.0 1 check_loop_cba0.2tb1_2.txt
+./main_full2.x 125. 400 400 400 0 0.0 0.0  1600 100.0 1 check_loop_cba0.2tb1_2.txt
+
+./CalcPhys mh mH mA mHp sin(beta-alpha) lambda_6 lambda_7 m_12^2 tan_beta yukawas_type output_filename

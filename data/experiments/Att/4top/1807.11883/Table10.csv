@@ -1,0 +1,27 @@
+#: table_doi: 10.17182/hepdata.83662.v2/t10
+#: name: Table 10
+#: description: Expected and observed limits on the cross-section for on-shell mediator subprocesses of the same-sign top-quark pair production as a function of the mass of the exotic FCNC mediator particle in a dark matter model.
+#: data_file: Limit_ttu_onshellV.yaml
+#: keyword reactions: P P --> ttu
+#: keyword cmenergies: 13000.0
+#: keyword phrases: dark matter exotic FCNC mediator
+#: LUMINOSITY [fb$^{-1}$],36.1
+#: Limit,Observed
+#: SQRT(S) [GeV],13000
+Mass [GeV],Cross section upper limit at 95% CL [pb]
+1000,0.132853
+1500,0.128691
+2000,0.132425
+2500,0.148569
+3000,0.138919
+
+#: LUMINOSITY [fb$^{-1}$],36.1
+#: Limit,Expected
+#: SQRT(S) [GeV],13000
+Mass [GeV],Cross section upper limit at 95% CL [pb],1 sigma +,1 sigma -,2 sigma +,2 sigma -
+1000,0.0874187,0.0376823,-0.0244287,0.0885877,-0.0404988
+1500,0.0854203,0.0364473,-0.0238702,0.0855664,-0.039573
+2000,0.0900766,0.0382109,-0.0251714,0.0893061,-0.0417302
+2500,0.100104,0.0425577,-0.0279736,0.0996224,-0.0463758
+3000,0.0915251,0.0394516,-0.0255762,0.093056,-0.0424012
+

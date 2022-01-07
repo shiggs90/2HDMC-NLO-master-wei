@@ -1,0 +1,24 @@
+****************************************************
+*                                                  *
+*    2HDMC - Two-Higgs-Doublet Model Calculator    *
+*             http://2hdmc.hepforge.org            *
+*                  Version 1.7.0                   *
+*             Compiled on Oct 24 2021              *
+*                                                  *
+****************************************************
+ 125.5   3000   3000            1            1    0.0841955            0  4.01466e-05  4.46702e-08            0            0    3.502e-05    4.467e-08    0.0008253            0   1.6314e-06  5.76863e-09  9.92607e-06    0.0214084  3.45957e-31  1.08211e-33     0.978579          nan          nan          nan          nan          nan          nan          nan          nan          nan     0.862384          nan            0          nan  2.41739e+29  52.888 0.48215       0       0       0       0  1.20142e-06  7.64704e-10            0            0    1.048e-06    7.647e-10    1.695e-05            0  1.08261e+24     2.82e-05   7.4166e-05  5.52929e-06            0     2.82e-05     2.82e-05   1.9001e-06   1.9001e-06      1.00001            1            1            1
+ ====================================================
+   FF 2.0, a package to evaluate one-loop integrals
+ written by G. J. van Oldenborgh, NIKHEF-H, Amsterdam
+ ====================================================
+ for the algorithms used see preprint NIKHEF-H 89/17,
+ 'New Algorithms for One-loop Integrals', by G.J. van
+ Oldenborgh and J.A.M. Vermaseren, published in 
+ Zeitschrift fuer Physik C46(1990)425.
+ ====================================================
+ ffxc0i: infra-red divergent threepoint function, working with a cutoff    1.0000000000000000     
+ 
+total number of errors and warnings
+===================================
+fferr: no errors
+ 
